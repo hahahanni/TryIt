@@ -20,7 +20,7 @@ def urceni_vyhry(volba):
 
 again="ano"
 
-while again=="ano":
+while True:
 	ja=int(input("Kamen (1), nuzky (2), papir (3), ted !!! \n Zadej svou volbu: "))
 	pocitac = random.randint(1,3)
 	volba=[ja,pocitac]
