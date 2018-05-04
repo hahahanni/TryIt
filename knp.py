@@ -25,5 +25,5 @@ while True:
 	urceni_vyhry(volba)
 	again=input("Chces hrat znova? ano/ne : ")
 	if again=="ne":
-		print("Tak cauuuu! Zase se stav :)")
+		print("Tak cauuuu! a někdy příště na viděnou :)")
 		break
