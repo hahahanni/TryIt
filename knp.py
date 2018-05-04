@@ -27,5 +27,5 @@ while True:
 	urceni_vyhry(volba)
 	again=input("Chces hrat znova? ano/ne : ")
 	if again=="ne":
-		"Tak cauuuu!"
+		print("Tak cauuuu!")
 		break
